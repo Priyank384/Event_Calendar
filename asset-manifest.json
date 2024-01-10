@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iPangram-Assignment/static/css/main.d9bdfe70.css",
+    "main.js": "/iPangram-Assignment/static/js/main.f8b18db8.js",
+    "index.html": "/iPangram-Assignment/index.html",
+    "main.d9bdfe70.css.map": "/iPangram-Assignment/static/css/main.d9bdfe70.css.map",
+    "main.f8b18db8.js.map": "/iPangram-Assignment/static/js/main.f8b18db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9bdfe70.css",
+    "static/js/main.f8b18db8.js"
+  ]
+}
